@@ -249,6 +249,7 @@ header {
   }
 
   .articles-container {
+  display: flex;
   flex-direction: column;
 }
 
